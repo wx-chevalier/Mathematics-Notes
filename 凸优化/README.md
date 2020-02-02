@@ -14,7 +14,7 @@ $$
 x_1 = \theta *4 + (1-\theta)*1 \\
 x_2 = \theta _ 1 + (1-\theta) _ 3\\
 \end{aligned}
-\theta \in R  
+\theta \in R
 \right.
 $$
 
@@ -29,9 +29,7 @@ $$
 通过集合$C$中任意两个不同点的直线仍然在集合$C$内，则称集合$C$为仿射集。
 
 $$
-
 \forall \theta \in R, \forall x_1,x_2 \in C , 则 x=\theta x_1 + (1 - \theta)x_2 \in C
-
 $$
 
 ### 凸集
@@ -39,9 +37,7 @@ $$
 集合$C$内任意两点间的线段均在集合$C$内，则称集合$C$为凸集。
 
 $$
-
 \forall \theta \in [0,1], \forall x_1,x_2 \in C , 则 x=\theta x_1 + (1 - \theta)x_2 \in C
-
 $$
 
 如果转化为$k$个点的版本，即
@@ -129,7 +125,7 @@ $\forall x \in C, a^Tx \le b 且 \forall x \in D, a^Tx \ge b$
 
 * 仿射交换
 
-​ 函数$f=Ax+b$的形式，称函数是仿射的：即线性函数加常数的形式
+函数$f=Ax+b$的形式，称函数是仿射的：即线性函数加常数的形式
 
 - 透视变换
 
