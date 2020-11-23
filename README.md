@@ -1,19 +1,25 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![license: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)][license-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/wx-chevalier/AI-Series">
+  <a href="https://github.com/wx-chevalier/Mathematics-Series">
     <img src="header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/wx-chevalier/AI-Series"><strong>AI Series»</strong></a>
+    <a href="https://ng-tech.icu/Mathematics-Series"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
-    <a href="https://github.com/wx-chevalier/ai-notebooks">Note Books</a>
+    <a href="https://github.com/wx-chevalier/Awesome-CheatSheets">速览手册</a>
     ·
-    <a href="https://github.com/wx-chevalier/ai-models">Models</a>
+    <a href="https://github.com/wx-chevalier">代码实践</a>
     ·
-    <a href="https://github.com/topics/wx-ai-kits">Projects</a>
+    <a href="https://github.com/wx-chevalier/Awesome-Lists">参考资料</a>
 
   </p>
 </p>
@@ -79,3 +85,17 @@ https://i.postimg.cc/TP0v9PXL/14.png
 https://i.postimg.cc/JzbLsq6Q/15.png
 https://i.postimg.cc/Z5kmYgcR/16.png
 https://i.postimg.cc/0NPqDwh1/17.png
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/Mathematics-Series.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/Mathematics-Series/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/Mathematics-Series.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/Mathematics-Series/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/Mathematics-Series.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/Mathematics-Series/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/Mathematics-Series.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/Mathematics-Series/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/Mathematics-Series.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/Mathematics-Series/blob/master/LICENSE.txt
