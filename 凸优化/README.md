@@ -29,7 +29,7 @@ $$
 通过集合$C$中任意两个不同点的直线仍然在集合$C$内，则称集合$C$为仿射集。
 
 $$
-\forall \theta \in R, \forall x_1,x_2 \in C , 则 x=\theta x_1 + (1 - \theta)x_2 \in C
+\forall \theta \in R, \forall x_1,x_2 \in C, 则 x=\theta x_1 + (1 - \theta)x_2 \in C
 $$
 
 ### 凸集
@@ -37,7 +37,7 @@ $$
 集合$C$内任意两点间的线段均在集合$C$内，则称集合$C$为凸集。
 
 $$
-\forall \theta \in [0,1], \forall x_1,x_2 \in C , 则 x=\theta x_1 + (1 - \theta)x_2 \in C
+\forall \theta \in [0,1], \forall x_1,x_2 \in C, 则 x=\theta x_1 + (1 - \theta)x_2 \in C
 $$
 
 如果转化为$k$个点的版本，即
@@ -217,7 +217,7 @@ $$hypo f = \{(x,t)|t \le f(x)\}$$
 
 $$f(\theta_1x_1 + \dots + \theta_kx_k) \le \theta_1 f(x_1) + \dots + \theta_k f(x_k) $$
 
-若$p(x) \ge 0 \quad on \quad S \subseteq dom f , \int_Sp(x)dx = 1$
+若$p(x) \ge 0 \quad on \quad S \subseteq dom f, \int_Sp(x)dx = 1$
 
 则 $$f(\int_Sp(x)xdx) \le \int_Sf(x)p(x)dx$$，也就是$$f(Ex) \le Ef(x)$$
 
