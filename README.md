@@ -34,7 +34,7 @@
 
 ![数理统计](https://i.postimg.cc/L8w4YDPd/image.png)
 
-# Nav | 导读
+# Nav | 关联导航
 
 # About | 关于
 
