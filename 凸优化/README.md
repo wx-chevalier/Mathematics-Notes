@@ -1,7 +1,5 @@
 # 凸集基本概念
 
-![](http://7xkt0f.com1.z0.glb.clouddn.com/D3D1E50E-F7FB-456A-89CB-18D9D0BABA15.png)
-
 如上图所示，$y=x^2$是一个凸函数，函数图像上位于$y=x^2$上方的区域构成凸集。凸函数图像的上方区域，一定是凸集；一个函数图像的上方区域为凸集，则该函数是凸函数。
 
 ### 直线的向量表达
@@ -96,8 +94,6 @@ $\{(x,t)|\Arrowvert x \Arrowvert \le t\}$
 $P={x|a^T_jx \le b_j,c_i^Tx=d_i}$
 
 仿射集(如超平面、直线)、射线、线段、半空间都是多面体，多面体肯定是一个凸集，此外，有界的多面体有时称作多胞形(polytope)。
-
-![](http://7xkt0f.com1.z0.glb.clouddn.com/71096C98-8525-4CBA-92F3-CF07D8581871.png)
 
 ### 分割超平面
 
@@ -203,8 +199,6 @@ $\bigtriangledown^2f(x) \ge 0$
 
 $$epi f = \{(x,t) | x \in dom f, f(x) \le t\}$$
 
-![](http://7xkt0f.com1.z0.glb.clouddn.com/C79C0496-E217-4C2A-B71A-F2DD81FD7B48.png)
-
 一个函数是凸函数，当且仅当其上镜图是凸集。反之，如果一个函数是凹函数，当且仅当其亚图是凸集。
 
 $$hypo f = \{(x,t)|t \le f(x)\}$$
@@ -281,7 +275,5 @@ $$L(x,\lambda,v) = f*0(x) + \sum^m*{i=1}\lambda*if_i(x) + \sum*{j=1}^pv_jh_j(x)$
 $$g(\lambda,v)=inf*{x \in D}L(x,\lambda,v)=inf*{x \in D}( f*0(x) + \sum^m*{i=1}\lambda*if_i(x) + \sum*{j=1}^pv_jh_j(x))$$
 
 如果没有下确界，定义：$$g(\lambda,v) = - \infty$$。根据定义，显然有对于$$\forall \lambda > 0, \forall v$$，若原优化问题有最优值$$p^_$$，则有$$g(\lambda,v) \le p^_$$，进一步可以得到 Lagrange 对偶函数为凸函数。
-
-![](http://7xkt0f.com1.z0.glb.clouddn.com/CD0DB9A2-80D4-4B33-9454-948123AE8EE1.png)
 
 上图左侧为原函数，右侧为对偶函数。
