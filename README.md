@@ -30,7 +30,7 @@
 
 本篇是[人工智能与深度学习实战](https://github.com/wx-chevalier/AI-Series)系列文章的一部分。
 
-![数理统计](https://i.postimg.cc/L8w4YDPd/image.png)
+![数理统计](https://assets.ng-tech.icu/item/20230416205419.png)
 
 # Nav | 关联导航
 
