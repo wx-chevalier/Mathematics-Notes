@@ -7,12 +7,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/wx-chevalier/Mathematics-Series">
+  <a href="https://github.com/wx-chevalier/Mathematics-Notes">
     <img src="https://assets.ng-tech.icu/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
-    <a href="https://ng-tech.icu/books/Mathematics-Series"><strong>在线阅读 >> </strong></a>
+    <a href="https://ng-tech.icu/books/Mathematics-Notes"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
     <a href="https://github.com/wx-chevalier">代码案例</a>
@@ -28,7 +28,7 @@
 
 ![](http://nebula.wsimg.com/9231017c407c70957eb3f708365e7a49?AccessKeyId=05106B70AA8440180999&disposition=0&alloworigin=1)
 
-本篇是[人工智能与深度学习实战](https://github.com/wx-chevalier/AI-Series)系列文章的一部分。
+本篇是[人工智能与深度学习实战](https://github.com/wx-chevalier/AI-Notes)系列文章的一部分。
 
 ![数理统计](https://assets.ng-tech.icu/item/20230416205419.png)
 
@@ -87,13 +87,13 @@ https://i.postimg.cc/0NPqDwh1/17.png
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/Mathematics-Series.svg?style=flat-square
-[contributors-url]: https://github.com/wx-chevalier/Mathematics-Series/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/Mathematics-Series.svg?style=flat-square
-[forks-url]: https://github.com/wx-chevalier/Mathematics-Series/network/members
-[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/Mathematics-Series.svg?style=flat-square
-[stars-url]: https://github.com/wx-chevalier/Mathematics-Series/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/Mathematics-Series.svg?style=flat-square
-[issues-url]: https://github.com/wx-chevalier/Mathematics-Series/issues
-[license-shield]: https://img.shields.io/github/license/wx-chevalier/Mathematics-Series.svg?style=flat-square
-[license-url]: https://github.com/wx-chevalier/Mathematics-Series/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/Mathematics-Notes.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/Mathematics-Notes/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/Mathematics-Notes.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/Mathematics-Notes/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/Mathematics-Notes.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/Mathematics-Notes/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/Mathematics-Notes.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/Mathematics-Notes/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/Mathematics-Notes.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/Mathematics-Notes/blob/master/LICENSE.txt
