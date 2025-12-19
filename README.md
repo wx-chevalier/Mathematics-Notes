@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/wx-chevalier/Mathematics-Notes">
-    <img src="https://assets.ng-tech.icu/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
@@ -28,7 +28,7 @@
 
 ![](http://nebula.wsimg.com/9231017c407c70957eb3f708365e7a49?AccessKeyId=05106B70AA8440180999&disposition=0&alloworigin=1)
 
-![数理统计](https://assets.ng-tech.icu/item/20230416205419.png)
+![数理统计](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230416205419.png)
 
 ```mermaid
 graph TD

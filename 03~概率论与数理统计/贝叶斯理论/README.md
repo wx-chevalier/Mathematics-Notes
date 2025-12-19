@@ -27,7 +27,7 @@ $$
 - $P(B|A_i)$ 称为似然。
 - $P(B) = \sum{P(B|A_j)P(A_j)}$ 称为 Evidence，即数据是由该模型得出的证据
 
-![贝叶斯理论](https://assets.ng-tech.icu/item/20230516214745.png)
+![贝叶斯理论](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230516214745.png)
 
 # 贝叶斯理论应用
 
